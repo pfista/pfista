@@ -1,3 +1,5 @@
+![Michael Pfister Logo](gh.png)
+
 ### Michael Pfister
 
 Hey, I'm [Michael](https://michaelpfister.com). I'm the founder at [Dawn Patrol](https://github.com/dawn-patrol-llc), a product studio that builds apps like [buoy.club](https://buoy.club) 🛟, [check.supply](https://check.supply), and [alerty.dev](alerty.dev).
